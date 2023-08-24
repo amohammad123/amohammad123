@@ -1,16 +1,21 @@
-### Hi there 👋
+## About Me
 
-<!--
-**amohammad123/amohammad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 I'm Mohammad Akhavi, a passionate Django developer with a love for creating web applications with great user experiences. I thrive on challenges, always seeking innovative solutions to problems and continually honing my skills.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Web Development**: Django  
+🛢️ **Databases**: PostgreSQL, NoSQL  
+🐳 **DevOps**: Docker  
+🚀 **Caching**: Redis  
+🌱 **Background Processing**: Celery  
+
+### My Projects
+
+- [Psychology] [https://github.com/amohammad123/Psychology], A website for articles and tests related to psychology and related fields, as well as booking and organizing therapy sessions 
+
+### Reach Out
+
+📫 Want to collaborate, have a chat, or just share ideas? Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-akhavi-880358270/)
+
+Looking forward to creating exciting things together! 🚀
