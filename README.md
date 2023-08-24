@@ -1,6 +1,6 @@
 ## About Me
 
-Hello there! 👋 I'm Mohammad Akhavi, a passionate Django developer with a love for creating web applications with great user experiences. I thrive on challenges, always seeking innovative solutions to problems and continually honing my skills.
+Hello there! 👋 I'm Mohammad Akhavi, Holder of a Master's degree in Clinical Psychology and a passionate Django developer with a love for creating web applications with great user experiences. I thrive on challenges, always seeking innovative solutions to problems and continually honing my skills.
 
 ### Tech Stack
 
